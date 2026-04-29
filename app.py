@@ -38,8 +38,8 @@ ACC = 99.82
 PREC = 96.69
 R2 = 0.9985
 MAPE = 0.18
-MAE = 3.27468
-RMSE = 8.59080
+MAE = 0.005636
+RMSE = 0.014780
 
 # ==================== HARDCODED DATA ====================
 top_polluted_data = {
